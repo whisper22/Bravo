@@ -76,7 +76,7 @@ git pull origin → 进行更新
 
 ```c
 pwd → 查看当前位置
-git add. → 添加当前目录下的所有文件到暂存区
+git add . → 添加当前目录下的所有文件到暂存区
 git commit -m 'update' → 提交暂存区（更新的文件）？
 git push → 将本地分支版本推送到远程并合并
 ```
