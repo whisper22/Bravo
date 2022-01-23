@@ -81,3 +81,10 @@ git commit -m 'update' → 提交暂存区（更新的文件）？
 git push → 将本地分支版本推送到远程并合并
 ```
 
+### 问题
+
+#### 在A电脑配置，想在B电脑本地克隆仓库时错误
+
+根据以下链接解决，新增SHH密钥并添加入设置。重新下载即可。
+
+[git连接github提示Permission denied (publickey)_Catherine_G的博客-CSDN博客](https://blog.csdn.net/qq_36830885/article/details/97637287?utm_medium=distribute.pc_relevant.none-task-blog-2~default~baidujs_title~default-1.pc_relevant_aa&spm=1001.2101.3001.4242.2&utm_relevant_index=4)
